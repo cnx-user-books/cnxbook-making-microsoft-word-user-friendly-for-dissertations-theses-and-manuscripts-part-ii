@@ -1,0 +1,404 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Creating a Line Graph</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38560</md:content-id>
+  <md:title>Creating a Line Graph</md:title>
+  <md:abstract/>
+  <md:uuid>fa2a3264-85af-42b1-9d2d-1cc54d5e9055</md:uuid>
+</metadata>
+
+<content>
+    <para id="eip-300"><media id="id27091673" alt=""><image src="../../media/ncpealogo.gif" mime-type="image/gif"/></media>
+
+
+</para><note id="eip-639">This chapter is published by <link url="http://www.ncpeapublications.org/books.html">NCPEA Press</link> and is presented as an NCPEA/Connexions publication as a "print on demand book." Each chapter has been peer-reviewed, accepted, and endorsed by the National Council of Professors of Educational Administration (NCPEA) as a significant contribution to the scholarship and practice of education administration. 
+
+</note><list id="eip-698" list-type="labeled-item"><title><emphasis effect="underline">About the Authors</emphasis></title><item><emphasis>John R. Slate</emphasis> is a Professor at Sam Houston State University where he teaches Basic and Advanced Statistics courses, as well as professional writing, to doctoral students in Educational Leadership and Counseling.  His research interests lie in the use of educational databases, both state and national, to reform school practices.  To date, he has chaired and/or served over 100 doctoral student dissertation committees.  Recently, Dr. Slate created a website (<link url="www.writingandstatisticalhelp">Writing and Statistical Help</link>) to assist students and faculty with both statistical assistance and in editing/writing their dissertations/theses and manuscripts.</item>
+
+<item><emphasis>Ana Rojas-LeBouef </emphasis> is a Literacy Specialist at the Reading Center at Sam Houston State University where she teaches developmental reading courses.  Dr. LeBoeuf recently completed her doctoral degree in Reading, where she conducted a 16-year analysis of Texas statewide data regarding the achievement gap.  Her research interests lie in examining the inequities in achievement among ethnic groups.  Dr. Rojas-LeBouef also assists students and faculty in their writing and statistical needs on the Writing and Statistical Help website.
+</item>
+
+</list><list id="eip-43" list-type="labeled-item"><title><emphasis effect="underline">About the Editors</emphasis></title><item><emphasis>Theodore B. Creighton</emphasis>, is a Professor at Virginia Tech and the Publications Director for <link url="http://www.ncpeapublications.org">NCPEA Publications</link>, the Founding Editor of <link url="http://ncpeapublications.org/about-elr.html">Education Leadership Review,</link> and the Senior Editor of the NCPEA Connexions Project.</item>
+
+
+
+<item><emphasis>Brad E. Bizzell</emphasis>, is a recent graduate of the Virginia Tech Doctoral Program in Educational Leadership and Policy Studies, and is a School Improvement Coordinator for the Virginia Tech Training and Technical Assistance Center. In addition, Dr. Bizzell serves as an Assistant Editor of the NCPEA Connexions Project in charge of technical formatting and design.
+</item>
+
+<item><emphasis>Janet Tareilo</emphasis>, is a Professor at Stephen F. Austin State University and serves as the Assistant Director of NCPEA Publications. Dr. Tareilo also serves as an Assistant Editor of the NCPEA Connexions Project and as a editor and reviewer for several national and international journals in educational leadership.</item></list><para id="id1172768623751">
+      <emphasis effect="bold"/>
+      <emphasis effect="bold">In this set of steps and screenshots, readers are provided with directions on generating a line graph for statistics already calculated. We encourage readers to use visual depictions such as line graphs because of their ability to communicate statistics in a user-friendly and understandable manner.</emphasis>
+    </para>
+    <section id="id1172761304010">
+      <title>Step One</title>
+      <para id="id1172761615522"><emphasis>First open a word document (Microsoft Word or other)</emphasis></para>
+      <list id="eip-688" list-type="labeled-item"><item><emphasis>√ Insert</emphasis></item>
+<item><emphasis>* Chart</emphasis></item>
+</list>
+      
+      <para id="id1172771104765"><link url="14.1.png/image" window="new">
+      <media id="media1" alt="">
+
+        <image mime-type="image/png" src="../../media/14.1.png" id="figure1"/>
+
+      </media>
+      </link></para>
+      
+      <list id="eip-299" list-type="labeled-item"><item><emphasis>* You will be prompted to choose the type of chart you would like to create (e.g., bar, pie, line, area, or surface) that illustrates your statistical output.</emphasis> </item>
+<item><emphasis>* Scroll down to see all options, however in this chapter, we will create a line graph.</emphasis></item>
+</list>
+      <para id="id1172761588549"><link url="14.2.png/image" window="new">
+      <media id="media2" alt="">
+
+        <image mime-type="image/png" src="../../media/14.2.png" id="figure2"/>
+
+      </media>
+      </link></para>
+      
+      <list id="eip-976" list-type="labeled-item"><item><emphasis>* Click on the actual “chart”</emphasis></item>
+<item><emphasis>* OK</emphasis></item>
+</list>
+      <para id="id1172763496388"><link url="14.3.png/image" window="new">
+      <media id="media3" alt="">
+
+        <image mime-type="image/png" src="../../media/14.3.png" id="figure3"/>
+
+      </media>
+      </link></para>
+      <para id="id1172773246994"><emphasis>Two screens will “pop” up. A chart with graphs and an excel spreadsheet </emphasis></para>
+      <para id="id1172765524395"><link url="14.4.png/image" window="new">
+      <media id="media4" alt="">
+
+        <image mime-type="image/png" src="../../media/14.4.png" id="figure4"/>
+
+      </media>
+      </link></para>
+      <para id="id1172768667749"><emphasis>***** Make sure to continue to SAVE your work</emphasis></para>
+    </section>
+    <section id="id1172760094452">
+      <title>Step Two</title>
+      <para id="id7673464">
+        <emphasis effect="bold">Using the excel spreadsheet, create the categories and series, depending upon your information.</emphasis>
+      </para>
+      
+      <list id="eip-703" list-type="labeled-item"><item><emphasis effect="bold">* You can use your SPSS output data (mean scores) to input data</emphasis></item>
+<item><emphasis effect="bold">* For example, if you have a table with the following information: </emphasis></item>
+</list>
+      
+      
+      <table id="id1172765647458" summary="Descriptive Statistics for Hispanic Students TAKS Mathematics Passing Rates by Year"><title><emphasis effect="italics">Descriptive Statistics for Hispanic Students TAKS Mathematics Passing Rates by Year</emphasis></title>
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>School Size</entry>
+              <entry>M</entry>
+            </row>
+            <row>
+              <entry>Very Small Schools</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>2003–2004</entry>
+              <entry>77.60</entry>
+            </row>
+            <row>
+              <entry>2004–2005</entry>
+              <entry>76.41</entry>
+            </row>
+            <row>
+              <entry>2005–2006</entry>
+              <entry>79.02</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="italics"/>
+                <emphasis effect="bold">2006–2007</emphasis>
+              </entry>
+              <entry>83.00</entry>
+            </row>
+            <row>
+              <entry>2007–2008</entry>
+              <entry>83.13</entry>
+            </row>
+            <row>
+              <entry>Small Schools</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>2003–2004</entry>
+              <entry>81.71</entry>
+            </row>
+            <row>
+              <entry>2004–2005</entry>
+              <entry>79.30</entry>
+            </row>
+            <row>
+              <entry>2005–2006</entry>
+              <entry>81.94</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="italics"/>
+                <emphasis effect="bold">2006–2007</emphasis>
+              </entry>
+              <entry>84.26</entry>
+            </row>
+            <row>
+              <entry>2007–2008</entry>
+              <entry>85.22</entry>
+            </row>
+            <row>
+              <entry>Large Schools</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>2003–2004</entry>
+              <entry>84.71</entry>
+            </row>
+            <row>
+              <entry>2004–2005</entry>
+              <entry>81.27</entry>
+            </row>
+            <row>
+              <entry>2005–2006</entry>
+              <entry>83.34</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="italics"/>
+                <emphasis effect="bold">2006–2007</emphasis>
+              </entry>
+              <entry>85.80</entry>
+            </row>
+            <row>
+              <entry>2007–2008</entry>
+              <entry>86.53</entry>
+            </row>
+          </tbody>
+        
+
+</tgroup>
+</table>
+      <list id="id1172770220316" list-type="labeled-item"><item>
+          <emphasis effect="bold">√ Decide which variables will be the categories and series (the categories will be the title that appears under the graphs &amp; the series will be the key). </emphasis>
+        </item>
+        <item>
+          <emphasis effect="bold">√ Begin filling in your columns and rows in the excel file.</emphasis>
+        </item>
+        <item><emphasis>√ The first column will be, using the table information above, will contain the years.</emphasis></item>
+        <item><emphasis>√ The second column will be Very Small Schools, the first grouping cited in the table above.</emphasis></item>
+        <item>
+          <emphasis effect="bold">√ This is handled by highlighting each cell and typing the information within the cell, as shown in figure below</emphasis>
+        </item>
+      <item><emphasis>* The illustration below demonstrates step by step how you can fill your columns/rows</emphasis></item>
+<item><emphasis>* The first row would be filled (using the table 3 information above) with the very small schools first</emphasis></item>
+<item><emphasis>* The graph to the right will instantly appear as you type in the numbers in the row (see arrows)</emphasis></item>
+
+</list>
+      
+      
+      
+      <para id="id1172761328328"><link url="14.5.png/image" window="new">
+      <media id="media5" alt="">
+
+        <image mime-type="image/png" src="../../media/14.5.png" id="figure5"/>
+
+      </media>
+      </link>
+      </para>
+      
+      
+      <list id="eip-806" list-type="labeled-item"><item><emphasis effect="bold">* Next, </emphasis>
+        <emphasis effect="bold">insert column “C” with the title “Small School” and insert data (as illustrated in table 3):</emphasis></item>
+<item><emphasis>* The graph to the right will instantly appear as you type in the numbers in the row (see arrows)</emphasis></item>
+</list>
+      <para id="id1172767654756"><link url="14.6.png/image" window="new">
+      <media id="media6" alt="">
+
+        <image mime-type="image/png" src="../../media/14.6.png" id="figure6"/>
+
+      </media>
+      </link>
+      </para>
+      
+      <list id="eip-989" list-type="labeled-item"><item><emphasis effect="bold">* Next, </emphasis>
+        <emphasis effect="bold">insert column “D” with the title “Large School” and insert data (as illustrated in table 3):</emphasis></item>
+<item><emphasis>* The graph to the right will instantly appear as you type in the numbers in the row (see arrows)</emphasis></item></list>
+      
+      <para id="id1172757297904"><link url="14.7.png/image" window="new">
+      <media id="media7" alt="">
+
+        <image mime-type="image/png" src="../../media/14.7.png" id="figure7"/>
+
+      </media>
+      </link>
+      </para>
+      <list id="id1172766441824" list-type="labeled-item"><item><emphasis>√ You can also make your cells larger or smaller by placing your mouse between the cells until you are able to move the lines over:</emphasis></item>
+      </list>
+      <para id="id1172766671874"><link url="14.8.png/image" window="new">
+      <media id="media8" alt="">
+
+        <image mime-type="image/png" src="../../media/14.8.png" id="figure8"/>
+
+      </media>
+      </link></para>
+      <list id="id1172757498647" list-type="labeled-item"><item><emphasis>√ You can switch back and forth from the excel spreadsheet to the chart, using the tabs on the bottom of your excel sheet</emphasis> </item> 
+<item><emphasis>* To replace “Category 1, Category 2, Category 3, Category 4”, simply highlight cells in column A with the information pertaining to your research</emphasis> </item>   
+
+</list>
+      
+      <para id="id1172760783288"><emphasis>After inputting your information, your chart will resemble the following:</emphasis></para>
+      <para id="id1172773068499"><link url="14.9.png/image" window="new">
+      <media id="media9" alt="">
+
+        <image mime-type="image/png" src="../../media/14.9.png" id="figure9"/>
+
+      </media>
+      </link></para>
+      
+    </section>
+    <section id="id1172766955917">
+      <title>Step Three:</title>
+      <para id="id1172761556222"><emphasis effect="bold">If you decide to change the 
+        <emphasis effect="underline">color </emphasis>
+        of your line graph: </emphasis>
+      </para>
+      
+      <list id="eip-934" list-type="labeled-item"><item><emphasis>* You must be at your chart and click on the actual graph (this will make Chart Tools appear above in the option area)</emphasis> </item>
+<item><emphasis>√ Go to Chart Tools</emphasis> </item>
+<item><emphasis>* Design</emphasis> </item>
+<item><emphasis>* "Chart styles</emphasis></item> 
+<item><emphasis>* Change Chart Type</emphasis></item> 
+<item><emphasis>* Click the down arrow, which will give you many options</emphasis></item> 
+<item><emphasis>* Highlight a chart style</emphasis></item> 
+
+</list>
+      
+      
+      
+      
+      
+      <para id="id1172760750788"><link url="14.10.png/image" window="new">
+      <media id="media10" alt="">
+
+        <image mime-type="image/png" src="../../media/14.10.png" id="figure10"/>
+
+      </media>
+      </link>
+      </para>
+      <para id="id1172771292083">
+        <emphasis effect="bold">If you decide to change your </emphasis>
+        <emphasis effect="bold">graph line </emphasis>
+        <emphasis effect="bold">layout</emphasis>
+        <emphasis effect="bold">:</emphasis>
+      </para>
+      <list id="eip-36" list-type="labeled-item"><item><emphasis>√ Chart Tools</emphasis> </item>
+<item><emphasis>* Go to tab designated "Design"</emphasis> </item>
+
+<item><emphasis>* Chart layouts (not to be confused with tab titled "Layout")</emphasis></item> 
+<item><emphasis>* Click the down arrow, which will give you many options</emphasis></item> 
+</list>
+      
+      
+      
+      <para id="id1172758674424"><link url="14.11.png/image" window="new">
+      <media id="media11" alt="">
+
+        <image mime-type="image/png" src="../../media/14.11.png" id="figure11"/>
+
+      </media>
+      </link>
+      </para>
+      <para id="id1172768801409">
+        <emphasis effect="bold">If you decide to change your de</emphasis>
+        <emphasis effect="bold">sign to a </emphasis>
+        <emphasis effect="bold">different</emphasis>
+        <emphasis effect="bold"> chart:</emphasis>
+      </para>
+      <list id="eip-651" list-type="labeled-item"><item><emphasis>√ Chart Tools</emphasis> </item>
+<item><emphasis>* Design</emphasis> </item>
+
+<item><emphasis>* Go to Change Chart Type (furthest left hand icon)</emphasis></item> 
+ </list>
+      
+      
+      <para id="id1172774137412"><link url="14.12.png/image" window="new">
+      <media id="media12" alt="">
+
+        <image mime-type="image/png" src="../../media/14.12.png" id="figure12"/>
+
+      </media>
+      </link></para>
+      
+      <list id="eip-943" list-type="labeled-item"><item><emphasis>* Choose a different design (your data will transfer to another design)</emphasis></item>
+<item><emphasis>* You can scroll down to choose a different design</emphasis></item>
+<item><emphasis>* Click on design</emphasis></item>
+<item><emphasis>* Click on OK</emphasis></item>
+<item><emphasis>* You can now change color, arrangement of bubbles, using the same steps as mentioned above</emphasis></item></list>
+      
+      
+      
+      <para id="id1172770725893"><link url="14.13.png/image" window="new">
+      <media id="media13" alt="">
+
+        <image mime-type="image/png" src="../../media/14.13.png" id="figure13"/>
+
+      </media>
+      </link></para>
+      <para id="id1172754598699">
+        <emphasis effect="bold">If you decide to</emphasis>
+        <emphasis effect="bold"> insert a title at the top of the figure:</emphasis>
+      </para>
+      <list id="eip-468" list-type="labeled-item"><item><emphasis>√ Chart Tools</emphasis> </item>
+<item><emphasis>* Design</emphasis> </item></list>
+      
+      <para id="id1172765277253"><link url="14.14.png/image" window="new">
+      <media id="media14" alt="">
+
+        <image mime-type="image/png" src="../../media/14.14.png" id="figure14"/>
+
+      </media>
+      </link></para>
+      
+      <list id="eip-228" list-type="labeled-item"><item><emphasis effect="bold">* Go to Change Chart Layouts </emphasis>
+        <emphasis effect="bold">(not to be confused with tab titled “Layout”)</emphasis></item></list><para id="id1172764690657"><link url="14.15.png/image" window="new">
+      <media id="media15" alt="">
+
+        <image mime-type="image/png" src="../../media/14.15.png" id="figure15"/>
+
+      </media>
+      </link></para>
+      
+      <list id="eip-685" list-type="labeled-item"><item><emphasis effect="bold">* Click the down arrow until you see the graph with the “Title” </emphasis></item>
+<item><emphasis effect="bold">* This will give you many different options for titles and graph layouts</emphasis></item>
+</list>
+      <para id="id1172766825648"><link url="14.16.png/image" window="new">
+      <media id="media16" alt="">
+
+        <image mime-type="image/png" src="../../media/14.16.png" id="figure16"/>
+
+      </media>
+      </link></para>
+      
+      <list id="eip-163" list-type="labeled-item"><item><emphasis effect="bold">* Click on to Graph section titled Chart Title to enter your new title.</emphasis></item>
+</list><para id="id1172766178203"><link url="14.17.png/image" window="new">
+      <media id="media17" alt="">
+
+        <image mime-type="image/png" src="../../media/14.17.png" id="figure17"/>
+
+      </media>
+      </link></para>
+      
+      <list id="eip-975" list-type="labeled-item"><item><emphasis effect="bold">*Enter the title of your line graph</emphasis></item>
+</list><para id="id1172770324468"><link url="14.18.png/image" window="new">
+      <media id="media18" alt="">
+
+        <image mime-type="image/png" src="../../media/14.18.png" id="figure18"/>
+
+      </media>
+      </link></para>
+      <para id="id1172773532016"><emphasis>In APA 6th edition style, you will need to type Figure 1. (if the first figure) and a longer title for the figure immediately below the graph.</emphasis></para>
+    </section>
+  </content>
+</document>

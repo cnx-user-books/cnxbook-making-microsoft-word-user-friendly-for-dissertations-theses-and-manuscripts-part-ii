@@ -1,0 +1,321 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Creating a Table in Word (97-2003 Word Version)</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38557</md:content-id>
+  <md:title>Creating a Table in Word (97-2003 Word Version)</md:title>
+  <md:abstract/>
+  <md:uuid>e9113c78-9766-4439-af7c-b297265d9616</md:uuid>
+</metadata>
+
+<content>
+    <para id="eip-509"><media id="id27091673" alt=""><image src="../../media/ncpealogo.gif" mime-type="image/gif"/></media>
+
+</para><note id="eip-176">This chapter is published by <link url="http://www.ncpeapublications.org/books.html">NCPEA Press</link> and is presented as an NCPEA/Connexions publication as a "print on demand book." Each chapter has been peer-reviewed, accepted, and endorsed by the National Council of Professors of Educational Administration (NCPEA) as a significant contribution to the scholarship and practice of education administration. </note><list id="eip-300" list-type="labeled-item"><title><emphasis effect="underline">About the Authors</emphasis></title><item><emphasis>John R. Slate</emphasis> is a Professor at Sam Houston State University where he teaches Basic and Advanced Statistics courses, as well as professional writing, to doctoral students in Educational Leadership and Counseling.  His research interests lie in the use of educational databases, both state and national, to reform school practices.  To date, he has chaired and/or served over 100 doctoral student dissertation committees.  Recently, Dr. Slate created a website (<link url="www.writingandstatisticalhelp">Writing and Statistical Help</link>) to assist students and faculty with both statistical assistance and in editing/writing their dissertations/theses and manuscripts.</item>
+
+<item><emphasis>Ana Rojas-LeBouef </emphasis> is a Literacy Specialist at the Reading Center at Sam Houston State University where she teaches developmental reading courses.  Dr. LeBoeuf recently completed her doctoral degree in Reading, where she conducted a 16-year analysis of Texas statewide data regarding the achievement gap.  Her research interests lie in examining the inequities in achievement among ethnic groups.  Dr. Rojas-LeBouef also assists students and faculty in their writing and statistical needs on the Writing and Statistical Help website.
+</item>
+
+
+</list><list id="eip-713" list-type="labeled-item"><title><emphasis effect="underline">About the Editors</emphasis></title><item><emphasis>Theodore B. Creighton</emphasis>, is a Professor at Virginia Tech and the Publications Director for <link url="http://www.ncpeapublications.org">NCPEA Publications</link>, the Founding Editor of <link url="http://ncpeapublications.org/about-elr.html">Education Leadership Review,</link> and the Senior Editor of the NCPEA Connexions Project.</item>
+
+
+
+<item><emphasis>Brad E. Bizzell</emphasis>, is a recent graduate of the Virginia Tech Doctoral Program in Educational Leadership and Policy Studies, and is a School Improvement Coordinator for the Virginia Tech Training and Technical Assistance Center. In addition, Dr. Bizzell serves as an Assistant Editor of the NCPEA Connexions Project in charge of technical formatting and design.
+</item>
+
+<item><emphasis>Janet Tareilo</emphasis>, is a Professor at Stephen F. Austin State University and serves as the Assistant Director of NCPEA Publications. Dr. Tareilo also serves as an Assistant Editor of the NCPEA Connexions Project and as a editor and reviewer for several national and international journals in educational leadership.</item></list><para id="id1171247908917"><emphasis effect="bold">These procedures are to be followed when you have statistical output that you wish to place into a Word table. In this chapter, you will be provided with steps and screenshots on how to create a table in a Word document, using the Table command. In the table, you will be placing statistical information from a SPSS output file. </emphasis>
+    </para>
+    
+    
+    <para id="eip-170"><emphasis>In this chapter, we will work from a blank Word file, although you can use the same procedures in placing a table in a Word document that has already been created. Readers should be aware that these steps and screenshots are for the 97-2003 version of Word. Readers who are using the most current version of Word should not use this chapter but rather the chapter titled 2003-2007 version of Word.</emphasis></para><para id="id1171264101679"><link url="11.1.png/image" window="new">
+      <media id="media1" alt="">
+
+        <image mime-type="image/png" src="../../media/11.1.png" id="figure1"/>
+
+      </media>
+      </link></para>
+    <para id="id1171246713517"><emphasis>You should now calculate or have already calculated statistical information which you will insert into a Word table. We will be using the statistical information present in the SPSS output depicted below.</emphasis></para>
+    <para id="id1171249654692"><link url="11.2.png/image" window="new">
+      <media id="media2" alt="">
+
+        <image mime-type="image/png" src="../../media/11.2.png" id="figure2"/>
+
+      </media>
+      </link></para>
+    <para id="id1171249560599"><emphasis>In the Word document,</emphasis> </para>
+    
+    <list id="eip-268" list-type="labeled-item"><item><emphasis effect="bold">√ </emphasis>
+      <emphasis effect="bold">Click on Table</emphasis></item>
+<item><emphasis effect="bold">√ </emphasis>
+      <emphasis effect="bold">Click on Insert</emphasis></item>
+<item><emphasis effect="bold">√ </emphasis>
+      <emphasis effect="bold">Click on Table</emphasis></item></list>
+    
+    <para id="id1171248843999"><link url="11.3.png/image" window="new">
+      <media id="media3" alt="">
+
+        <image mime-type="image/png" src="../../media/11.3.png" id="figure3"/>
+
+      </media>
+      </link></para>
+    <para id="id1171252755921">
+      <emphasis effect="bold">Following these steps, your screen will look like the following: The default setting for a Word table is 5 columns and 2 rows. For our purposes, given the statistical information in the SPSS output depicted previously, we will need a column for the variable name; one for the sample size (</emphasis>
+      <emphasis effect="italics">n</emphasis>
+      <emphasis effect="bold">); one for the Mean (</emphasis>
+      <emphasis effect="italics">M</emphasis>
+      <emphasis effect="bold">); and one for the Standard Deviation (</emphasis>
+      <emphasis effect="italics">SD</emphasis>
+      <emphasis effect="bold">). Thus, we will need four columns, not the five shown below. We have statistical information on three variables in the SPSS output table. In addition to these three rows, we will need a row in which to name our variables. Therefore, we will need four rows. </emphasis>
+    </para>
+    <para id="id1171249312877"><link url="11.4.png/image" window="new">
+      <media id="media4" alt="">
+
+        <image mime-type="image/png" src="../../media/11.4.png" id="figure4"/>
+
+      </media>
+      </link></para>
+    
+    <list id="eip-79" list-type="labeled-item"><item><emphasis effect="bold">√ </emphasis>
+      <emphasis effect="bold">Click on the down arrow for the number of columns which will change the default of 5 to a 4</emphasis></item>
+<item><emphasis effect="bold">√ </emphasis>
+      <emphasis effect="bold">Click on the up arrow for the number of rows which will change the default from 2 to a 4</emphasis></item>
+<item><emphasis effect="bold">√ </emphasis>
+      <emphasis effect="bold">Click on OK</emphasis></item></list>
+    
+    
+    
+    <para id="id1171262295832"><link url="11.5.png/image" window="new">
+      <media id="media5" alt="">
+
+        <image mime-type="image/png" src="../../media/11.5.png" id="figure5"/>
+
+      </media>
+      </link></para>
+    <para id="id1171249131603">
+      <emphasis effect="bold">Word will then generate a table for you with 4 columns and 4 rows. The top row will be used to label the columns.</emphasis>
+    </para>
+    <para id="id1171248968280"><link url="11.6.png/image" window="new">
+      <media id="media6" alt="">
+
+        <image mime-type="image/png" src="../../media/11.6.png" id="figure6"/>
+
+      </media>
+      </link></para>
+    <para id="id1171253755944">
+      <emphasis effect="bold">From the SPSS output, our three variables are TAKS Test Grade 12 All Students Tests Rate; TAKS Test Grade 11 All Students Tests Rate; and TAKS Test Grade 10 All Students Tests Rate. Thus Grade levels of 12, 11, and 10 will be out variable names.</emphasis>
+    </para>
+    <para id="id1171249216664"><link url="11.7.png/image" window="new">
+      <media id="media7" alt="">
+
+        <image mime-type="image/png" src="../../media/11.7.png" id="figure7"/>
+
+      </media>
+      </link></para>
+    <para id="id1171253527009"><emphasis>The Word table will look as follows once that information has been typed into the table. </emphasis></para>
+    <para id="id1171249612468"><link url="11.8.png/image" window="new">
+      <media id="media8" alt="">
+
+        <image mime-type="image/png" src="../../media/11.8.png" id="figure8"/>
+
+      </media>
+      </link></para>
+    <para id="id1171261096159">
+      <emphasis effect="bold">In this example, we will label the far left column as Variable; the second column will be for the sample size (</emphasis>
+      <emphasis effect="italics">n</emphasis>
+      <emphasis effect="bold">); the third column for the </emphasis>
+      <emphasis effect="italics">M</emphasis>
+      <emphasis effect="bold">; and the fourth column for the </emphasis>
+      <emphasis effect="italics">SD</emphasis>
+      <emphasis effect="bold">. Notice that the labels of Variable, </emphasis>
+      <emphasis effect="italics">n</emphasis>
+      <emphasis effect="bold">, </emphasis>
+      <emphasis effect="italics">M</emphasis>
+      <emphasis effect="bold">, and </emphasis>
+      <emphasis effect="italics">SD</emphasis>
+      <emphasis effect="bold"> are centered. Also note that APA requires that mathematical symbols should be placed in italics.</emphasis>
+    </para>
+    <para id="id1171249651786"><link url="11.9.png/image" window="new">
+      <media id="media9" alt="">
+
+        <image mime-type="image/png" src="../../media/11.9.png" id="figure9"/>
+
+      </media>
+      </link></para>
+    <para id="id1171249549171">
+      <emphasis effect="bold">Now we will type into the Word table the variable names specified before: Grade 12, Grade 11, and Grade 10. These variable names should be left margin justified within the first column.</emphasis>
+    </para>
+    <para id="id1171249571164"><link url="11.10.png/image" window="new">
+      <media id="media10" alt="">
+
+        <image mime-type="image/png" src="../../media/11.10.png" id="figure10"/>
+
+      </media>
+      </link></para>
+    <para id="id1171251078145">
+      <emphasis effect="bold">Next we type into the </emphasis>
+      <emphasis effect="italics">n</emphasis>
+      <emphasis effect="bold">, </emphasis>
+      <emphasis effect="italics">M</emphasis>
+      <emphasis effect="bold">, and </emphasis>
+      <emphasis effect="italics">SD</emphasis>
+      <emphasis effect="bold"> cells in the Word table the statistical information from the SPSS output screen.</emphasis>
+    </para>
+    <para id="id1171253589460">11.11 here<link url="11.11.png/image" window="new">
+      <media id="media11" alt="">
+
+        <image mime-type="image/png" src="../../media/11.11.png" id="figure11"/>
+
+      </media>
+      </link></para>
+    <para id="id1171249348929"><emphasis>After typing this information into the Word table, the table will look as follows: Note that decimal places are carried to only two places, as per APA 6th edition requirements. The statistical information is also centered under each column heading. The next item to take care of is the lines at the top and bottom of the table, as well as under the top row.</emphasis></para>
+    <para id="id1171249068715"><link url="11.12.png/image" window="new">
+      <media id="media12" alt="">
+
+        <image mime-type="image/png" src="../../media/11.12.png" id="figure12"/>
+
+      </media>
+      </link>
+    </para>
+    
+    <list id="eip-113" list-type="labeled-item"><item><emphasis effect="bold">√ </emphasis>
+      <emphasis effect="bold">Click on Table</emphasis></item>
+<item><emphasis effect="bold">√ </emphasis>
+      <emphasis effect="bold">Click on Properties</emphasis></item>
+</list>
+    <para id="id1171247922861"><link url="11.13.png/image" window="new">
+      <media id="media13" alt="">
+
+        <image mime-type="image/png" src="../../media/11.13.png" id="figure13"/>
+
+      </media>
+      </link></para>
+    
+    <list id="eip-893" list-type="labeled-item"><item><emphasis effect="bold">√ </emphasis>
+      <emphasis effect="bold">Click on
+      Borders and Shading</emphasis></item>
+</list><para id="id1171249948294"><link url="11.14.png/image" window="new">
+      <media id="media14" alt="">
+
+        <image mime-type="image/png" src="../../media/11.14.png" id="figure14"/>
+
+      </media>
+      </link></para>
+    <para id="id1171262867052"><emphasis>After clicking on Borders and Shading, the screen below will appear: We will change the Width from its current ½ pt to 1 pt. To do so, click on the down arrow and change it to 1 pt.</emphasis></para>
+    
+    <para id="id1171249387499"><link url="11.15.png/image" window="new">
+      <media id="media15" alt="">
+
+        <image mime-type="image/png" src="../../media/11.15.png" id="figure15"/>
+
+      </media>
+      </link></para>
+    <para id="id1171249566729"><emphasis>Your screen will now look like the screen below. We will next click on the top line of the table and on the bottom line of the table to change them to 1 pt. They are currently set at ½ pt because it is the default value. Clicking on the line one time will remove it. Clicking on it again will make it appear as a 1 pt. value.</emphasis></para>
+    <para id="id1171247254605"><link url="11.16.png/image" window="new">
+      <media id="media16" alt="">
+
+        <image mime-type="image/png" src="../../media/11.16.png" id="figure16"/>
+
+      </media>
+      </link></para>
+    <para id="id1171247889696"><emphasis>After changing the top and bottom lines, click on the other lines one time. Clicking one time should remove each line. When your table looks like the one below, click on OK.</emphasis></para>
+    <para id="id1171256133092"><link url="11.17.png/image" window="new">
+      <media id="media17" alt="">
+
+        <image mime-type="image/png" src="../../media/11.17.png" id="figure17"/>
+
+      </media>
+      </link></para>
+    <para id="id1171249102135"><emphasis>Your table will now look like this. You now have a 1 pt. line at the top and at the bottom of your table. We now need to place a line under the top row, the one that begins with variable. To do this, we will highlight the first row.</emphasis></para>
+    <para id="id1171252750215"><link url="11.18.png/image" window="new">
+      <media id="media18" alt="">
+
+        <image mime-type="image/png" src="../../media/11.18.png" id="figure18"/>
+
+      </media>
+      </link></para>
+    <para id="id1171249648562">
+      <emphasis effect="bold">Your screen should now look like the one below. To have Word place a line under the top row:</emphasis>
+    </para>
+    
+    <list id="eip-65" list-type="labeled-item"><item><emphasis effect="bold">√ </emphasis>
+      <emphasis effect="bold">Click on Table</emphasis></item>
+<item><emphasis effect="bold">√ </emphasis>
+      <emphasis effect="bold">Click on Properties</emphasis></item>
+</list>
+    <para id="id1171249543872"><link url="11.19.png/image" window="new">
+      <media id="media19" alt="">
+
+        <image mime-type="image/png" src="../../media/11.19.png" id="figure19"/>
+
+      </media>
+      </link></para>
+    <para id="id1171247247098"><emphasis>Your screen should look like:</emphasis></para>
+    <para id="id1171249297396"><link url="11.20.png/image" window="new">
+      <media id="media20" alt="">
+
+        <image mime-type="image/png" src="../../media/11.20.png" id="figure20"/>
+
+      </media>
+      </link></para>
+    
+    <list id="eip-90" list-type="labeled-item"><item><emphasis effect="bold">√ </emphasis>
+      <emphasis effect="bold">Click on Borders and Shading</emphasis></item>
+</list><para id="id1171247900195"><link url="11.21.png/image" window="new">
+      <media id="media21" alt="">
+
+        <image mime-type="image/png" src="../../media/11.21.png" id="figure21"/>
+
+      </media>
+      </link></para>
+    <para id="id1171263909022">
+      <emphasis effect="bold">After clicking on borders and shading, this screen will appear. Click on the bottom part of the table so that a line appears.</emphasis>
+    </para>
+    <para id="id1171249506735"><link url="11.22.png/image" window="new">
+      <media id="media22" alt="">
+
+        <image mime-type="image/png" src="../../media/11.22.png" id="figure22"/>
+
+      </media>
+      </link></para>
+    <para id="id1171249060599"><emphasis>Your table will then look like the following. </emphasis></para>
+    
+    <list id="eip-8" list-type="labeled-item"><item><emphasis effect="bold">√ </emphasis>
+      <emphasis effect="bold">Click on OK.</emphasis></item>
+</list><para id="id1171249565750"><link url="11.23.png/image" window="new">
+      <media id="media23" alt="">
+
+        <image mime-type="image/png" src="../../media/11.23.png" id="figure23"/>
+
+      </media>
+      </link></para>
+    
+    <list id="eip-741" list-type="labeled-item"><item><emphasis effect="bold">√ Click on OK.</emphasis></item>
+
+</list><para id="id1171271555913"><link url="11.24.png/image" window="new">
+      <media id="media24" alt="">
+
+        <image mime-type="image/png" src="../../media/11.24.png" id="figure24"/>
+
+      </media>
+      </link></para>
+    <para id="id1171249405883">
+      <emphasis effect="bold">Your Word table has now been created correctly as per APA 6th edition guidelines. It will look like the following: You should have three lines in the table: one at the top; one at the bottom; and one at the bottom of the top row. Now the next step is to type in Table 1 (if the first table or appropriate table # if not)</emphasis>
+    </para>
+    <para id="id1171263234924"><link url="11.25.png/image" window="new">
+      <media id="media25" alt="">
+
+        <image mime-type="image/png" src="../../media/11.25.png" id="figure25"/>
+
+      </media>
+      </link></para>
+    <para id="id1171249188977"><emphasis>For this example, we will type in Table 1. and then a table title that accurately reflects the information contained within the table. Notice that the table title is in italics. A period is present after Table 1. but not after the table title itself. Though APA does permit tables to be single-spaced, we encourage the use of double-spacing, unless told to do otherwise.</emphasis></para>
+    <para id="id1171246713857"><link url="11.26.png/image" window="new">
+      <media id="media26" alt="">
+
+        <image mime-type="image/png" src="../../media/11.26.png" id="figure26"/>
+
+      </media>
+      </link></para>
+    <para id="id1171249305405"><emphasis>You have now generated a Word table, properly formatted in APA 6th edition, that contains descriptive information from SPSS output.</emphasis></para>
+  </content>
+</document>
