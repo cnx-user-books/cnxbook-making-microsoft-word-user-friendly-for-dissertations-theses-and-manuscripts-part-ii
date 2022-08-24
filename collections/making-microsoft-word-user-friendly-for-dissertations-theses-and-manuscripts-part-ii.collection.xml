@@ -1,3 +1,22 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Textbook">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col11336</md:content-id>  <md:title>Making Microsoft Word User-Friendly for Dissertations, Theses, and Manuscripts: Part II</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>              <md:uuid>5c46be2d-feac-40a3-a6a5-fadcef29e1eb</md:uuid>
-<md:slug>making-microsoft-word-user-friendly-for-dissertations-theses-and-manuscripts-part-ii</md:slug>
-</metadata>  <col:content>          <col:module document="m38562"/>                            <col:module document="m38561"/>                            <col:module document="m38563"/>                            <col:module document="m38564"/>                            <col:module document="m38550"/>                            <col:module document="m38557"/>                            <col:module document="m38556"/>                            <col:module document="m38558"/>                            <col:module document="m38560"/>                    </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Textbook" authors="National Council of Professors  of Educational Administration">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11336</md:content-id>
+    <md:title>Making Microsoft Word User-Friendly for Dissertations, Theses, and Manuscripts: Part II</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>5c46be2d-feac-40a3-a6a5-fadcef29e1eb</md:uuid>
+    <md:slug>making-microsoft-word-user-friendly-for-dissertations-theses-and-manuscripts-part-ii</md:slug>
+  </metadata>
+  <col:content>
+    <col:module document="m38562"/>
+    <col:module document="m38561"/>
+    <col:module document="m38563"/>
+    <col:module document="m38564"/>
+    <col:module document="m38550"/>
+    <col:module document="m38557"/>
+    <col:module document="m38556"/>
+    <col:module document="m38558"/>
+    <col:module document="m38560"/>
+  </col:content>
+</col:collection>
